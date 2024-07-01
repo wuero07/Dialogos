@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Dialogos1</string>
+        <string name="texto_dialogo_salida">¿Estás seguro que deseas salir?</string>
+        <string name="texto_dialogo_titulo">Salir</string>
+        <string name="aceptar">Aceptar</string>
+    <string name="Agregar">Agregar</string>
+        <string name="cancelar">Cancelar</string>
+        <string name="texto_dialogo_simple">¿Quieres eliminar todos los datos?</string>
+        <string name="texto_dialogo_simple_titulo">Eliminar Datos</string>
+        <string name="texto_dialogo_titulo_personalizado">Agregar Cliente</string>
+        <string name="texto_apellidos">Apellidos: ingrese apellidos</string>
+        <string name="texto_nombres">Nombres: ingrese nombres</string>
+        <string name="texto_direccion">Dirección: ingrese dirección</string>
+    </resources>
+
+
