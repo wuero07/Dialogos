@@ -3,11 +3,13 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:padding="16dp">
+    android:padding="16dp"
+    android:background="@drawable/fondod1">
 
     <EditText
         android:id="@+id/apellidos"
         android:textStyle="bold"
+        android:textColorHint="@color/black"
         android:textColor="@color/black"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -17,6 +19,9 @@
         android:id="@+id/nombres"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:textColorHint="@color/black"
         android:hint="@string/texto_nombres"
         android:layout_marginTop="8dp" />
 
@@ -24,6 +29,9 @@
         android:id="@+id/direccion"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:textColorHint="@color/black"
         android:hint="@string/texto_direccion"
         android:layout_marginTop="8dp" />
 
